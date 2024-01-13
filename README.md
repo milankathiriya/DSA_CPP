@@ -16,124 +16,223 @@
 
 ### Lec. 1.3
 - Basic Program structure of C++
+- using namespace std
+- Data Types
+- Variables
+- Keywords
+- Constant
 - cout and cin objects
 - endl manipulator
 
 
-## Chapter 2 - Datatype, Constant & Variable
+## Chapter 2 - GitHub
 
 ### Lec. 2.1
-- Data Types
-- Variables
-- Format Specifiers
-- printf() Function For Variables
-
-### Lec. 2.2
-- Keywords
-- Constant
-- Format Specifiers In Detail
-- scanf() Function 
-
-
-## Chapter 3 - GitHub
-
-### Lec. 3.1
 - What is GitHub?
 - Installation of Git
-- Creating GitHub Account
+- Creating a GitHub Account
 - Create first GitHub Repository
 - Push on GitHub
 
-## Chapter 4 - Operator & Expression
+## Chapter 3 - Operator & Expression
 
-### Lec. 4.1
+### Lec. 3.1
 - Type Of Operators
 - Operator Precedence
 - Type Conversation
 
-## Chapter 5 - Control Structure
+## Chapter 4 - Control Structure
 
-### Lec. 5.1
-- If Statement
-- If...Else
-- Ladder
+### Lec. 4.1
+- if statement
+- if...else
+- ladder
 
-### Lec. 5.2
+### Lec. 4.2
 - Flowchart Shapes & Creation
 - Nested
 
-### Lec. 5.3
+### Lec. 4.3
 - Ternary Operator
 - Switch Case 
 
-## Chapter 6 - Looping
+## Chapter 5 - Looping
 
-### Lec. 6.1
+### Lec. 5.1
 - Types of Loops
 - while loop
-
-### Lec. 6.2
 - Do While Loop
 - Difference Between While & Do While
 - For Loop
 
-### Lec. 6.3
+### Lec. 5.2
 - Looping Exercises
-- Control Statements (break, continue, and goto)
 
-## Chapter 8 - Array in Detail
 
-### Lec. 8.1
+## Chapter 6 - Looping with Patterns
+
+### Lec. 6.1
+- Types of Patterns
+- Without Space Pattern
+
+### Lec. 6.2
+- With Space Pattern
+
+### Lec. 6.3
+- Custom Pattern
+
+  
+## Chapter 7 - Array in Detail
+
+### Lec. 7.1
 - Types of Array
 - 1D Array
 
-### Lec. 8.2
+### Lec. 7.2
 - 1D Array Exercises
 
-### Lec. 8.3
+### Lec. 7.3
 - 2D Array
 
-## Chapter 9 - String in Detail
+## Chapter 8 - User Defined Function
 
-### Lec. 9.1
-- Character in detail
-- ASCII value in detail
-- String creation, display & insertion
-
-### Lec. 9.2
-- NULL & '\0'
-- String built-in functions
-
-## Chapter 10 - User Defined Function
-
-### Lec. 10.1
+### Lec. 8.1
 - Types of Functions
 - TNRN (Take Nothing, Return Nothing)
 - TSRN (Take Something, Return Nothing)
 
-### Lec. 10.2
+### Lec. 8.2
 - TNRS (Take Nothing, Return Something)
 - TSRS (Take Something, Return Something)
 - Nested Functions
 - Recursion
 
-## Chapter 11 - Pointer
+## Chapter 9 - OOP
+
+### Lec. 9.1
+- What is Object Oriented Programming?
+- Principles of OOP
+- Class & Object
+- Access Modifiers (public & private)
+
+## Lec. 9.2
+- What is Data Encapsulation?
+- setter & getter
+- this keyword
+- private attributes
+
+## Lec. 9.3
+- scope resolution Operator
+- Inline keyword
+- new, delete Keyword
+
+## Lec. 9.4 
+- What is Constructor
+- Types of Constructor
+- Destructor
+
+## Chapter 10 - Template & Vectors
+
+### Lec. 10.1
+- Intro to Template
+- Types of Templates
+
+### Lec. 10.2
+- Intro to Vectors
+- Understanding some methods
+
+### Lec. 10.3
+- Vector exercises
+
+## Chapter 11 - Linked List
 
 ### Lec. 11.1
-- sizeof() operator
-- Pointer
-- Scale of Pointer
-- Poniter with array & string
+- Intro of Linked List
+- Types of Linked List
+- CRUD operations
+- Singly Linked List
+- Create operation
 
 ### Lec. 11.2
-- Pointer of Array
-- Chain of Pointer
-- Pointer with UDF
+- Singly Linked List: Read/Traverse operation
 
-## Chapter 12 - Structure, Union & Enumeration
+### Lec. 11.3
+- Singly Linked List: Update operation
+
+### Lec. 11.4
+- Singly Linked List: Delete operation
+
+### Lec. 11.5
+- Doubly Linked List
+- Create operation
+
+### Lec. 11.6
+- Doubly Linked List: Read/Traverse operation
+
+### Lec. 11.7
+- Doubly Linked List: Update operation
+
+### Lec. 11.8
+- Doubly Linked List: Delete operation
+
+### Lec. 11.9
+- Circular Linked List
+- Create operation
+
+### Lec. 11.10
+- Circular Linked List: Read/Traverse operation
+
+### Lec. 11.11
+- Circular Linked List: Update operation
+
+### Lec. 11.12
+- Circular Linked List: Delete operation
+
+### Lec. 11.13
+- Doubly Circular Linked List
+- Create operation
+
+### Lec. 11.14
+- Doubly Circular Linked List: Read/Traverse operation
+
+### Lec. 11.15
+- Doubly Circular Linked List: Update operation
+
+### Lec. 11.16
+- Doubly Circular Linked List: Delete operation
+
+## Chapter 12 - Stack
 
 ### Lec. 12.1
-- Structure & sizeof()
-- Union
-- Enumeration
+- Intro of Stack
+- Stack operations
+- Creation of Stack
 
+### Lec. 12.2
+- push operation
+- pop operation
+- peek operation
+- traverse operation
+
+## Chapter 13 - Queue
+
+### Lec. 13.1
+- Intro of Queue
+- Types of Queue
+- Queue operations
+- Creation of a Simple Queue
+
+### Lec. 13.2
+- Simple Queue: push operation (enqueue)
+- Simple Queue: pop operation (dequeue)
+- Simple Queue: peek operations (front & back)
+- Simple Queue: traverse operation
+
+### Lec. 13.3
+- Creation of a Priority Queue
+
+### Lec. 13.4
+- Priority Queue: push operation (enqueue)
+- Priority Queue: pop operation (dequeue)
+- Priority Queue: peek operations (front & back)
+- Priority Queue: traverse operation
