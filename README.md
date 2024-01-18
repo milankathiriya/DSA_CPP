@@ -12,9 +12,9 @@
 - History of C++
 - Importance of C++
 - Compiler & Interpreter
-- Setup VS Code
 
 ### Lec. 1.3
+- Setup VS Code
 - Basic Program structure of C++
 - using namespace std
 - Data Types
