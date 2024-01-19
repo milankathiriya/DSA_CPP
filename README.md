@@ -61,8 +61,8 @@
 ### Lec. 5.1
 - Types of Loops
 - while loop
-- Do While Loop
-- For Loop
+- do while loop
+- for loop
 
 ### Lec. 5.2
 - Looping Exercises
