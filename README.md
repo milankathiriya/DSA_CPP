@@ -65,6 +65,7 @@
 - for loop
 
 ### Lec. 5.2
+- Algorithm and Flowchart for loop
 - Looping Exercises
 
 
