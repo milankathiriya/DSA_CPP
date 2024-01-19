@@ -62,7 +62,6 @@
 - Types of Loops
 - while loop
 - Do While Loop
-- Difference Between While & Do While
 - For Loop
 
 ### Lec. 5.2
