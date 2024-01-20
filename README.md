@@ -34,7 +34,7 @@
 - Create first GitHub Repository
 - Push on GitHub
 
-## Chapter 3 - Operator & Expression
+## Chapter 3 - Operator
 
 ### Lec. 3.1
 - Type Of Operators
