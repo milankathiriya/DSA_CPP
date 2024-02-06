@@ -65,9 +65,11 @@
 - for loop
 
 ### Lec. 5.2
-- Algorithm and Flowchart for loop
+- Algorithm and Flowchart for loops
 - Looping Exercises
 
+### Lec. 5.3
+- Looping Exercises
 
 ## Chapter 6 - Looping with Patterns
 
