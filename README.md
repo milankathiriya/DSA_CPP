@@ -92,6 +92,7 @@
 
 ### Lec. 7.2
 - For each loop
+- sizeof() operator
 - 1D Array Exercises
 
 ### Lec. 7.3
