@@ -96,6 +96,9 @@
 - 1D Array Exercises
 
 ### Lec. 7.3
+- CRUD Operation on 1D Array
+
+- ### Lec. 7.4
 - 2D Array
 
 ## Chapter 8 - User Defined Function
