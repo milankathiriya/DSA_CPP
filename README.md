@@ -101,6 +101,9 @@
 ### Lec. 7.4
 - 2D Array
 
+### Lec. 7.5
+- 2D Array Exercises
+
 ## Chapter 8 - User Defined Function
 
 ### Lec. 8.1
