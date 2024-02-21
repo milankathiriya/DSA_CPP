@@ -122,10 +122,14 @@
 ### Lec. 9.1
 - Pointer
 - Array of Pointer
-- Passing array in a function
-- Pass by Value
-- Pass by Reference
 - Chain of Pointer
+
+### Lec. 9.2
+- Passing array in a function
+- Passing address in a function
+- Reference Variable
+- Call by Value
+- Call by Reference
 
 ## Chapter 10 - OOP
 
