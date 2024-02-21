@@ -121,135 +121,137 @@
 
 ### Lec. 9.1
 - Pointer
+- Array of Pointer
 - Passing array in a function
 - Pass by Value
 - Pass by Reference
+- Chain of Pointer
 
-## Chapter 9 - OOP
+## Chapter 10 - OOP
 
-### Lec. 9.1
+### Lec. 10.1
 - What is Object Oriented Programming?
 - Principles of OOP
 - Class & Object
 - Access Modifiers (public & private)
 
-## Lec. 9.2
+## Lec. 10.2
 - What is Data Encapsulation?
 - setter & getter
 - this keyword
 - private attributes
 
-## Lec. 9.3
+## Lec. 10.3
 - scope resolution Operator
 - Inline keyword
 - new, delete Keyword
 
-## Lec. 9.4 
+## Lec. 10.4 
 - What is Constructor
 - Types of Constructor
 - Destructor
 
-## Chapter 10 - Template & Vectors
+## Chapter 11 - Template & Vectors
 
-### Lec. 10.1
+### Lec. 11.1
 - Intro to Template
 - Types of Templates
 
-### Lec. 10.2
+### Lec. 11.2
 - Intro to Vectors
 - Understanding some methods
 
-### Lec. 10.3
+### Lec. 11.3
 - Vector exercises
 
-## Chapter 11 - Linked List
+## Chapter 12 - Linked List
 
-### Lec. 11.1
+### Lec. 12.1
 - Intro of Linked List
 - Types of Linked List
 - CRUD operations
 - Singly Linked List
 - Create operation
 
-### Lec. 11.2
+### Lec. 12.2
 - Singly Linked List: Read/Traverse operation
 
-### Lec. 11.3
+### Lec. 12.3
 - Singly Linked List: Update operation
 
-### Lec. 11.4
+### Lec. 12.4
 - Singly Linked List: Delete operation
 
-### Lec. 11.5
+### Lec. 12.5
 - Doubly Linked List
 - Create operation
 
-### Lec. 11.6
+### Lec. 12.6
 - Doubly Linked List: Read/Traverse operation
 
-### Lec. 11.7
+### Lec. 12.7
 - Doubly Linked List: Update operation
 
-### Lec. 11.8
+### Lec. 12.8
 - Doubly Linked List: Delete operation
 
-### Lec. 11.9
+### Lec. 12.9
 - Circular Linked List
 - Create operation
 
-### Lec. 11.10
+### Lec. 12.10
 - Circular Linked List: Read/Traverse operation
 
-### Lec. 11.11
+### Lec. 12.11
 - Circular Linked List: Update operation
 
-### Lec. 11.12
+### Lec. 12.12
 - Circular Linked List: Delete operation
 
-### Lec. 11.13
+### Lec. 12.13
 - Doubly Circular Linked List
 - Create operation
 
-### Lec. 11.14
+### Lec. 12.14
 - Doubly Circular Linked List: Read/Traverse operation
 
-### Lec. 11.15
+### Lec. 12.15
 - Doubly Circular Linked List: Update operation
 
-### Lec. 11.16
+### Lec. 12.16
 - Doubly Circular Linked List: Delete operation
 
-## Chapter 12 - Stack
+## Chapter 13 - Stack
 
-### Lec. 12.1
+### Lec. 13.1
 - Intro of Stack
 - Stack operations
 - Creation of Stack
 
-### Lec. 12.2
+### Lec. 13.2
 - push operation
 - pop operation
 - peek operation
 - traverse operation
 
-## Chapter 13 - Queue
+## Chapter 14 - Queue
 
-### Lec. 13.1
+### Lec. 14.1
 - Intro of Queue
 - Types of Queue
 - Queue operations
 - Creation of a Simple Queue
 
-### Lec. 13.2
+### Lec. 14.2
 - Simple Queue: push operation (enqueue)
 - Simple Queue: pop operation (dequeue)
 - Simple Queue: peek operations (front & back)
 - Simple Queue: traverse operation
 
-### Lec. 13.3
+### Lec. 14.3
 - Creation of a Priority Queue
 
-### Lec. 13.4
+### Lec. 14.4
 - Priority Queue: push operation (enqueue)
 - Priority Queue: pop operation (dequeue)
 - Priority Queue: peek operations (front & back)
