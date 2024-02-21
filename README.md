@@ -117,6 +117,14 @@
 - Nested Functions
 - Recursion
 
+## Chapter 9 - Pointer
+
+### Lec. 9.1
+- Pointer
+- Passing array in a function
+- Pass by Value
+- Pass by Reference
+
 ## Chapter 9 - OOP
 
 ### Lec. 9.1
