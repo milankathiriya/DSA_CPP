@@ -131,6 +131,10 @@
 - Call by Value
 - Call by Reference
 
+### Chapter 10 - DMA
+- Dynamic Memory Allocation
+- new & delete keywords
+
 ## Chapter 10 - OOP
 
 ### Lec. 10.1
