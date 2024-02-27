@@ -131,10 +131,6 @@
 - Call by Value
 - Call by Reference
 
-### Chapter 10 - DMA
-- Dynamic Memory Allocation
-- new & delete keywords
-
 ## Chapter 10 - OOP
 
 ### Lec. 10.1
@@ -158,6 +154,13 @@
 - What is Constructor
 - Types of Constructor
 - Destructor
+
+### Chapter 11 - DMA
+- Static vs. Dynamic Memory Allocation
+- Structure of RAM (Code area, Global, Stack, Heap)
+- Stack vs. Heap
+- new & delete keywords
+- DMA with Procedural vs. OOP way
 
 ## Chapter 11 - Template & Vectors
 
