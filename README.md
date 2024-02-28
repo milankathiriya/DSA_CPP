@@ -146,7 +146,8 @@
 - private attributes
 
 ## Lec. 10.3
-- scope resolution Operator
+- Array of objects
+- Scope resolution operator
 - Static members
 - new, delete Keyword
 
