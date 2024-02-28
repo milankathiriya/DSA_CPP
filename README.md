@@ -147,7 +147,7 @@
 
 ## Lec. 10.3
 - scope resolution Operator
-- Inline keyword
+- Static members
 - new, delete Keyword
 
 ## Lec. 10.4 
