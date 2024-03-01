@@ -146,10 +146,12 @@
 - private attributes
 
 ## Lec. 10.3
-- Array of objects
-- Scope resolution operator
-- Static members
-- new, delete Keyword
+- Array Of Objects
+- What are Static Members?
+- Static Keyword
+- Static Data Member
+- Static Member Functions
+- Scope Resolution Operator
 
 ## Lec. 10.4 
 - What is Constructor
@@ -162,6 +164,7 @@
 - Stack vs. Heap
 - new & delete keywords
 - DMA with Procedural vs. OOP way
+- new, delete Keyword
 
 ## Chapter 11 - Template & Vectors
 
