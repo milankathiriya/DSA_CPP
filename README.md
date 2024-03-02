@@ -164,7 +164,7 @@
 - Stack vs. Heap
 - new & delete keywords
 - DMA with Procedural vs. OOP way
-- new, delete Keyword
+- new, delete Keyword (with constructor & destructor use case)
 
 ## Chapter 11 - Template & Vectors
 
