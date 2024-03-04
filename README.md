@@ -158,6 +158,12 @@
 - Types of Constructor
 - Destructor
 
+## Lec. 10.5
+- What Is Inheritance?
+- Types Of Inheritance
+- Error Of Ambiguity
+- Solution Of Ambiguity (Using Scope Resolution Operator)
+
 ### Chapter 11 - DMA
 - Static vs. Dynamic Memory Allocation
 - Structure of RAM (Code area, Global, Stack, Heap)
