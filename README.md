@@ -159,10 +159,16 @@
 - Destructor
 
 ## Lec. 10.5
-- What Is Inheritance?
-- Types Of Inheritance
-- Error Of Ambiguity
-- Solution Of Ambiguity (Using Scope Resolution Operator)
+- What is Inheritance?
+- Types of Inheritance
+- Error of Ambiguity
+- Solution of Ambiguity (Using Membership Label Operator)
+
+## Lec. 10.6
+- What is Polymorphism?
+- Types of Polymorphism
+- Method Overloading
+- Method Overriding
 
 ### Chapter 11 - DMA
 - Static vs. Dynamic Memory Allocation
