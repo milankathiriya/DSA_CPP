@@ -169,6 +169,12 @@
 - Types of Polymorphism
 - Method Overloading
 - Method Overriding
+- Virtual Function
+
+## Lec. 10.7
+- What is Data Abstraction
+- Access modifiers in Inheritance (Use of Public, Private, and Protected)
+- Abstract Class (Pure Virtual Function)
 
 ### Chapter 11 - DMA
 - Static vs. Dynamic Memory Allocation
