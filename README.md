@@ -177,14 +177,17 @@
 - Abstract Class (Pure Virtual Function)
 
 ### Chapter 11 - DMA
+## Lec. 11.1
 - Static vs. Dynamic Memory Allocation
 - Structure of RAM (Code area, Global, Stack, Heap)
-- Stack vs. Heap
-- new & delete keywords
+- Stack and Heap
+- new & delete operators
+
+## Lec. 11.2
 - DMA with Procedural vs. OOP way
 - new, delete Keyword (with constructor & destructor use case)
 
-## Chapter 11 - Template & Vectors
+## Chapter 12 - Template & Vectors
 
 ### Lec. 11.1
 - Intro to Template
