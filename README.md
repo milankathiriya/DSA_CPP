@@ -139,13 +139,13 @@
 - Class & Object
 - Access Modifiers (public & private)
 
-## Lec. 10.2
+### Lec. 10.2
 - What is Data Encapsulation?
 - setter & getter
 - this keyword
 - private attributes
 
-## Lec. 10.3
+### Lec. 10.3
 - Array Of Objects
 - What are Static Members?
 - Static Keyword
@@ -153,37 +153,38 @@
 - Static Member Functions
 - Scope Resolution Operator
 
-## Lec. 10.4 
+### Lec. 10.4 
 - What is Constructor
 - Types of Constructor
 - Destructor
 
-## Lec. 10.5
+### Lec. 10.5
 - What is Inheritance?
 - Types of Inheritance
 - Error of Ambiguity
 - Solution of Ambiguity (Using Membership Label Operator)
 
-## Lec. 10.6
+### Lec. 10.6
 - What is Polymorphism?
 - Types of Polymorphism
 - Method Overloading
 - Method Overriding
 - Virtual Function
 
-## Lec. 10.7
+### Lec. 10.7
 - What is Data Abstraction
 - Access modifiers in Inheritance (Use of Public, Private, and Protected)
 - Abstract Class (Pure Virtual Function)
 
-### Chapter 11 - DMA
-## Lec. 11.1
+## Chapter 11 - DMA
+
+### Lec. 11.1
 - Static vs. Dynamic Memory Allocation
 - Structure of RAM (Code area, Global, Stack, Heap)
 - Stack and Heap
 - new & delete operators
 
-## Lec. 11.2
+### Lec. 11.2
 - DMA with Procedural vs. OOP way
 - new, delete Keyword (with constructor & destructor use case)
 
