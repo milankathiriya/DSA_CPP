@@ -190,11 +190,11 @@
 
 ## Chapter 12 - Template & Vectors
 
-### Lec. 11.1
+### Lec. 12.1
 - Intro to Template
 - Types of Templates
 
-### Lec. 11.2
+### Lec. 12.2
 - Intro to Vectors
 - Understanding some methods
 
