@@ -186,7 +186,7 @@
 
 ### Lec. 11.2
 - DMA with Procedural vs. OOP way
-- new, delete Keyword (with constructor & destructor use case)
+- new, delete Operators (with constructor & destructor use case)
 
 ## Chapter 12 - Template & Vectors
 
