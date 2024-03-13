@@ -198,97 +198,97 @@
 - Intro to Vectors
 - Understanding some methods
 
-### Lec. 11.3
+### Lec. 12.3
 - Vector exercises
 
-## Chapter 12 - Linked List
+## Chapter 13 - Linked List
 
-### Lec. 12.1
+### Lec. 13.1
 - Intro of Linked List
 - Types of Linked List
 - CRUD operations
 - Singly Linked List
 - Create operation
 
-### Lec. 12.2
+### Lec. 13.2
 - Singly Linked List: Read/Traverse operation
 
-### Lec. 12.3
+### Lec. 13.3
 - Singly Linked List: Update operation
 
-### Lec. 12.4
+### Lec. 13.4
 - Singly Linked List: Delete operation
 
-### Lec. 12.5
+### Lec. 13.5
 - Doubly Linked List
 - Create operation
 
-### Lec. 12.6
+### Lec. 13.6
 - Doubly Linked List: Read/Traverse operation
 
-### Lec. 12.7
+### Lec. 13.7
 - Doubly Linked List: Update operation
 
-### Lec. 12.8
+### Lec. 13.8
 - Doubly Linked List: Delete operation
 
-### Lec. 12.9
+### Lec. 13.9
 - Circular Linked List
 - Create operation
 
-### Lec. 12.10
+### Lec. 13.10
 - Circular Linked List: Read/Traverse operation
 
-### Lec. 12.11
+### Lec. 13.11
 - Circular Linked List: Update operation
 
-### Lec. 12.12
+### Lec. 13.12
 - Circular Linked List: Delete operation
 
-### Lec. 12.13
+### Lec. 13.13
 - Doubly Circular Linked List
 - Create operation
 
-### Lec. 12.14
+### Lec. 13.14
 - Doubly Circular Linked List: Read/Traverse operation
 
-### Lec. 12.15
+### Lec. 13.15
 - Doubly Circular Linked List: Update operation
 
-### Lec. 12.16
+### Lec. 13.16
 - Doubly Circular Linked List: Delete operation
 
-## Chapter 13 - Stack
+## Chapter 14 - Stack
 
-### Lec. 13.1
+### Lec. 14.1
 - Intro of Stack
 - Stack operations
 - Creation of Stack
 
-### Lec. 13.2
+### Lec. 14.2
 - push operation
 - pop operation
 - peek operation
 - traverse operation
 
-## Chapter 14 - Queue
+## Chapter 15 - Queue
 
-### Lec. 14.1
+### Lec. 15.1
 - Intro of Queue
 - Types of Queue
 - Queue operations
 - Creation of a Simple Queue
 
-### Lec. 14.2
+### Lec. 15.2
 - Simple Queue: push operation (enqueue)
 - Simple Queue: pop operation (dequeue)
 - Simple Queue: peek operations (front & back)
 - Simple Queue: traverse operation
 
-### Lec. 14.3
+### Lec. 15.3
 - Creation of a Priority Queue
 
-### Lec. 14.4
+### Lec. 15.4
 - Priority Queue: push operation (enqueue)
 - Priority Queue: pop operation (dequeue)
 - Priority Queue: peek operations (front & back)
