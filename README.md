@@ -197,6 +197,7 @@
 ### Lec. 12.2
 - Intro to Vectors
 - Understanding some methods
+- Difference between Vector and Array
 
 ### Lec. 12.3
 - Vector exercises
