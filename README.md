@@ -207,11 +207,11 @@
 ### Lec. 13.1
 - Intro of Linked List
 - Types of Linked List
-- CRUD operations
-- Singly Linked List
-- Create operation
+- Operations on Linked Lists
 
 ### Lec. 13.2
+- Singly Linked List
+- Create operation
 - Singly Linked List: Read/Traverse operation
 
 ### Lec. 13.3
