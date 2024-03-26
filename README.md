@@ -211,53 +211,21 @@
 
 ### Lec. 13.2
 - Singly Linked List
-- Create operation
-- Singly Linked List: Read/Traverse operation
+- Creation of Singly Linked List using Class
+- Node representation using Self-referential class
 
 ### Lec. 13.3
-- Singly Linked List: Update operation
+- Add nodes using a new pointer in the Singly Linked List
+- Singly Linked List: Traversing operation
 
 ### Lec. 13.4
+- Singly Linked List: Insertion operation
+- Singly Linked List: Traversing operation
+
+### Lec. 13.4
+- Singly Linked List: Update operation
 - Singly Linked List: Delete operation
 
-### Lec. 13.5
-- Doubly Linked List
-- Create operation
-
-### Lec. 13.6
-- Doubly Linked List: Read/Traverse operation
-
-### Lec. 13.7
-- Doubly Linked List: Update operation
-
-### Lec. 13.8
-- Doubly Linked List: Delete operation
-
-### Lec. 13.9
-- Circular Linked List
-- Create operation
-
-### Lec. 13.10
-- Circular Linked List: Read/Traverse operation
-
-### Lec. 13.11
-- Circular Linked List: Update operation
-
-### Lec. 13.12
-- Circular Linked List: Delete operation
-
-### Lec. 13.13
-- Doubly Circular Linked List
-- Create operation
-
-### Lec. 13.14
-- Doubly Circular Linked List: Read/Traverse operation
-
-### Lec. 13.15
-- Doubly Circular Linked List: Update operation
-
-### Lec. 13.16
-- Doubly Circular Linked List: Delete operation
 
 ## Chapter 14 - Stack
 
