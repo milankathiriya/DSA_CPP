@@ -222,7 +222,7 @@
 - Singly Linked List: Insertion operation
 - Singly Linked List: Traversing operation
 
-### Lec. 13.4
+### Lec. 13.5
 - Singly Linked List: Update operation
 - Singly Linked List: Delete operation
 
