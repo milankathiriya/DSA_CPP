@@ -235,30 +235,19 @@
 - Creation of Stack
 
 ### Lec. 14.2
-- push operation
-- pop operation
-- peek operation
-- traverse operation
+- Array-based implementation of Stack
+- Perform all Stack operations using the OOP approach
+
+### Lec. 14.3
+- Stack Exercises
 
 ## Chapter 15 - Queue
 
 ### Lec. 15.1
 - Intro of Queue
-- Types of Queue
 - Queue operations
-- Creation of a Simple Queue
+- Types of Queue
 
 ### Lec. 15.2
-- Simple Queue: push operation (enqueue)
-- Simple Queue: pop operation (dequeue)
-- Simple Queue: peek operations (front & back)
-- Simple Queue: traverse operation
-
-### Lec. 15.3
-- Creation of a Priority Queue
-
-### Lec. 15.4
-- Priority Queue: push operation (enqueue)
-- Priority Queue: pop operation (dequeue)
-- Priority Queue: peek operations (front & back)
-- Priority Queue: traverse operation
+- Array-based implementation of Queue
+- Perform all Queue operations using the OOP approach
